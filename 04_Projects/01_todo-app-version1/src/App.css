@@ -1,0 +1,24 @@
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+input{
+    width: 100%;
+}
+
+.items-container{
+    text-align: left;
+}
+
+/* note that we are defining custom row bcz row is already defined class in the item imported from bootstrap. So to apply our own CSS we are defining our own class name */
+.custom-row{
+    margin: 10px 5px;
+}
+
+.custom-button{
+    min-width: 80px;
+
+}
