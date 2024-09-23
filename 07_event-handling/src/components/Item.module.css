@@ -1,0 +1,12 @@
+.custom-item{
+    background-color: khaki;
+}
+
+.custom-span{
+    font-weight: 500;
+    color: blue;
+}
+
+.button{
+    float: right;
+}
